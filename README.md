@@ -3,9 +3,9 @@
 
 ![image](images/3.jpeg)
 
-[Contact](mailto:govnorpayne@gmail.com)
+### [Contact Govnor and Marianny by Email](mailto:govnorpayne@gmail.com)
 
-[Registry](https://www.amazon.com/wedding/share/GovnorandMarianny)
+### [Amazon Wedding Registry](https://www.amazon.com/wedding/share/GovnorandMarianny)
+### [Bed Bath and Beyond Wedding Registry](https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/550446398)
 
-
-# Click here for the Calendar invite [![image](images/calendar-icon-png-4125.png)](images/GovnorMariannyWedding.ics)
+### Click here to add to your calendar [ICS](images/GovnorMariannyWedding.ics) [![image](images/calendar-icon-png-4125.png)](images/GovnorMariannyWedding.ics)
