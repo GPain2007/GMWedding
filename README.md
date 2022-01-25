@@ -2,7 +2,8 @@
 ![image](images/2.jpeg)
 
 ![image](images/3.jpeg)
-| -------- | ------- |
+| | #Links |
+|--------|-------|
 | Email | [Contact Govnor and Marianny by Email](mailto:govnorpayne@gmail.com) |
 | [![image](images/amazon.png)](https://www.amazon.com/wedding/share/GovnorandMarianny) | [Amazon Wedding Registry](https://www.amazon.com/wedding/share/GovnorandMarianny) |
 | [![image](images/bedbath.jpeg)](https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/550446398)| [Bed Bath and Beyond Wedding Registry](https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/550446398) |
