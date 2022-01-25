@@ -8,4 +8,4 @@
 [Registry](https://www.amazon.com/wedding/share/GovnorandMarianny)
 
 
-Click here for the Calendar invite [![image](images/cao.png)](images/GovnorMariannyWedding.ics)
+Click here for the Calendar invite [![image](images/calendar-icon-png-4125.png)](images/GovnorMariannyWedding.ics)
